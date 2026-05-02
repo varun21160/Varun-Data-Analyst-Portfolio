@@ -1,18 +1,18 @@
 #  Task-2: Data Cleaning, SQL Analysis & EDA
 
-## Overview
+##  Overview
 
-In this task, raw sales data was cleaned and transformed into a structured dataset. SQL and Python were used to extract meaningful business insights.
+In this task, raw sales data was cleaned and transformed into a structured dataset. Python and SQL were used to extract meaningful business insights.
 
 ---
 
-## Objective
+##  Objective
 
 To clean the dataset, perform exploratory data analysis, and answer business-related questions using SQL.
 
 ---
 
-## Data Cleaning
+##  Data Cleaning
 
 * Handled missing values
 * Converted data types
@@ -21,7 +21,7 @@ To clean the dataset, perform exploratory data analysis, and answer business-rel
 
 ---
 
-## Analysis Performed
+##  Analysis Performed
 
 * Sales by Region
 * Sales by Product Category
@@ -30,7 +30,7 @@ To clean the dataset, perform exploratory data analysis, and answer business-rel
 
 ---
 
-## SQL Analysis
+##  SQL Analysis
 
 Business queries were written to extract insights such as:
 
@@ -40,7 +40,14 @@ Business queries were written to extract insights such as:
 
 ---
 
-## Key Insights
+##  Sample Output
+
+![](outputs/dashboard.png)
+Example visualization of sales performance
+
+---
+
+##  Key Insights
 
 * North region generated the highest sales
 * Retail channel performed slightly better than online
@@ -48,7 +55,7 @@ Business queries were written to extract insights such as:
 
 ---
 
-## Tools Used
+##  Tools Used
 
 * Python (Pandas, Matplotlib)
 * SQL
@@ -66,6 +73,6 @@ README.md
 
 ---
 
-## Outcome
+##  Outcome
 
 This task demonstrates the ability to clean data, perform analysis, and generate insights using both Python and SQL.

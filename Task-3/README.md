@@ -1,18 +1,18 @@
-# Task-3: Deep-Dive Analysis & Interactive Dashboard
+#  Task-3: Deep-Dive Analysis & Interactive Dashboard
 
-##  Overview
+## Overview
 
 This task focuses on performing deeper analysis and building an interactive dashboard to understand business performance.
 
 ---
 
-##  Objective
+## Objective
 
 To analyze key business metrics and build a dashboard that provides actionable insights.
 
 ---
 
-##  Dashboard Features
+## Dashboard Features
 
 * Total Sales, Cost, Profit, and Profit Margin
 * Sales by Region
@@ -20,6 +20,13 @@ To analyze key business metrics and build a dashboard that provides actionable i
 * Sales by Category
 * Monthly Sales Trend
 * Cost vs Sales Analysis
+
+---
+
+## Dashboard Preview
+
+![](outputs/dashboard_img.png)
+ Interactive dashboard showing overall business performance
 
 ---
 
@@ -59,6 +66,6 @@ README.md
 
 ---
 
-## Outcome
+##  Outcome
 
 This task demonstrates the ability to build dashboards and perform deep-dive analysis to identify critical business problems.

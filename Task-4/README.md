@@ -40,6 +40,20 @@ High operational costs exceed revenue, leading to continuous losses.
 
 ---
 
+##  Key Visuals
+
+### Cost vs Sales
+
+![](outputs/cost_vs_sales.png)
+ Shows that costs frequently exceed revenue, leading to losses
+
+### Hypothesis Test Result
+
+![](outputs/hypothesis_result.png)
+Statistical evidence confirming cost is higher than sales
+
+---
+
 ##  Statistical Validation
 
 A paired t-test was performed to compare Sales and Cost.
@@ -88,6 +102,6 @@ README.md
 
 ---
 
-## Outcome
+##  Outcome
 
 This task demonstrates how data storytelling combined with statistical validation can provide strong, data-driven business conclusions.

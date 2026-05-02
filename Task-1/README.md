@@ -1,18 +1,18 @@
 #  Task-1: Basic Data Exploration & Visualization
 
-##  Overview
+## Overview
 
 This task focuses on performing basic data exploration to understand the structure, patterns, and quality of the dataset.
 
 ---
 
-##  Objective
+## Objective
 
 To explore the dataset, identify key characteristics, and perform initial analysis using Python.
 
 ---
 
-##  Data Understanding
+## Data Understanding
 
 * Loaded the dataset using Pandas
 * Checked data types and structure
@@ -21,11 +21,18 @@ To explore the dataset, identify key characteristics, and perform initial analys
 
 ---
 
-##  Exploratory Analysis
+## Exploratory Analysis
 
 * Summary statistics of numerical columns
 * Distribution of key variables
 * Basic visualizations (bar charts, line plots)
+
+---
+
+## Sample Visualization
+
+![](outputs/image.png)
+ Example visualization showing data distribution
 
 ---
 
@@ -43,9 +50,10 @@ To explore the dataset, identify key characteristics, and perform initial analys
 
 ---
 
-##  Folder Structure
+## Folder Structure
 
 notebooks/
+outputs/
 README.md
 ```
 
