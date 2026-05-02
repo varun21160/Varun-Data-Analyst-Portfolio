@@ -44,7 +44,7 @@ High operational costs exceed revenue, leading to continuous losses.
 
 ### Cost vs Sales
 
-![](outputs/cost_vs_sales.png)
+![](outputs/cost vs sales.png)
  Shows that costs frequently exceed revenue, leading to losses
 
 ### Hypothesis Test Result
